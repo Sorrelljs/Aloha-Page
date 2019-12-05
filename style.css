@@ -150,7 +150,7 @@ h3{
 
 h4{
 
-  color: #e2574c;
+  color:#cb2f23;
   font-family: 'Playfair Display';
   font-size: 23px;
 }
@@ -221,7 +221,7 @@ h5{
 
    header ul li a {
     text-decoration: none;
-    color: #e2574c;
+    color: #cb2f23;
     font-size: auto;
     font-family: 'Raleway';
    }
@@ -435,10 +435,10 @@ hr{
   
 
 button{
-    background: rgb(238, 88, 88);
+    background: #cb2f23;
     border-radius: 25px;
     color: white;
-    border: 5px solid rgb(238, 88, 88);
+    border: 5px solid #cb2f23;
     
 }
 
